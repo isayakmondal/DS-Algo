@@ -155,6 +155,6 @@ int main(){
     b.insertData(13);
     b.insertData(15);
 
-    // b.printTree();
-    cout<<b.hasData(0);
+    b.printTree();
+    // cout<<b.hasData(0);
 }
